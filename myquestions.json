@@ -1,0 +1,86 @@
+{"questions":[
+    {
+        "question": "¿Qué escenario de La Comunidad del Anillo se contruyó en una antigua base naval?",
+        "answers": ["Bree", "Isengard", "La cima de los vientos"],
+        "image": "/media/imagenes/Bree.png",
+        "expected": 0
+    },
+    {
+        "question": "¿Quién le dice a Frodo: Hasta el más pequeño puede cambiar el curso del futuro?",
+        "answers": ["Elrond", "Galadriel", "Gandalf"],
+        "image": "/media/imagenes/Galadriel.png",
+        "expected": 1
+    },
+    {
+        "question": "¿Cuántos guerreros ha matado Legolas en el Abismo de Helm mientras Gimli lleva dos?",
+        "answers": ["27", "17", "21"],
+        "image": "/media/imagenes/legolas.jpg",
+        "expected": 1
+    },
+    {
+        "question": "¿Qué hobbit es el primero en pedir una pinta entera de cerveza en la Posada del Pony Pisador?",
+        "answers": ["Merry", "Sam", "Pippin"],
+        "image": "/media/imagenes/Merry.png",
+        "expected": 0
+    },
+    {   "question": "¿La hija de qué actor en la vida real hace de Elanor, su hija en la pantalla, en El Retorno del Rey?",
+        "answers": ["Hugo Weaving", "Sean Astin", "Bernard Hill"],
+        "image": "/media/imagenes/Sean.png",
+        "expected": 1
+    },
+    {
+        "question": "¿Qué fobia tiene Peter Jackson?",
+        "answers": ["Arañas", "Oscuridad", "Sitios cerrados"],
+        "image": "/media/imagenes/Peter.jpg",
+        "expected": 0
+    },
+    {
+        "question": "¿Qué miembro de la Compañía recoge el anillo en la nieve, cerca del Paso de Caradhras?",
+        "answers": ["Gandalf", "Boromir", "Sam"],
+        "image": "/media/imagenes/Boromir.png",
+        "expected": 1
+    },
+    {
+        "question": "¿Quién dice: Esta no es nuestra guerra?",
+        "answers": ["Barbol", "Theoden", "Elrond"],
+        "image": "/media/imagenes/Barbol.png",
+        "expected": 0
+    },
+    {
+        "question": "¿Quién compuso, orquestó y dirigió la música de la trilogía?",
+        "answers": ["Hans Zimmer", "John Williams", "Howard Shore"],
+        "image": "/media/imagenes/Howard.png",
+        "expected": 2
+    },
+    {
+        "question": "¿En qué año se estrenó la película El Retorno del Rey?",
+        "answers": ["2001", "2002", "2003"],
+        "image": "/media/imagenes/2003.png",
+        "expected": 2
+    },
+    {
+        "question": "¿Cuántas nominaciones a los Oscar tuvo Las Dos Torres?",
+        "answers": ["4", "9", "6"],
+        "image": "/media/imagenes/Nominaciones.png",
+        "expected": 2
+    },
+    {
+        "question": "¿Cuántos meses se tardó en rodar las tres películas?",
+        "answers": ["15", "12", "18"],
+        "image": "/media/imagenes/Rodaje.jpg",
+        "expected": 0
+    },
+    {
+        "question": "¿Qué parentesco tiene Gimli con Balin?",
+        "answers": ["Hijo", "Hermanos", "Primos"],
+        "image": "/media/imagenes/gimli.jpg",
+        "expected": 2
+    },
+    {
+        "question": "De las 11 nominaciones que tuvo El Retorno del Rey, ¿Cuántos Oscars consiguieron?",
+        "answers": ["9", "11", "7"],
+        "image": "/media/imagenes/nominaciones2.png",
+        "expected": 1
+    }
+    ]
+}
